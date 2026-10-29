@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=LivePaint
+GenericName=Screen annotation
+Comment=Draw on your live desktop
+Comment[ru]=Рисование поверх живого рабочего стола
+Exec=livepaint toggle
+Icon=livepaint
+Terminal=false
+Categories=Graphics;Utility;
+Keywords=draw;annotate;overlay;screen;paint;
+StartupNotify=false

@@ -1,0 +1,11 @@
+# Cargo build cache, dependencies, debug symbols, tests, and release binaries.
+# Keep Cargo.lock: this is an application, not a library.
+/target/
+
+# Local screen captures may contain private desktop content.
+*.png
+
+# Editor / desktop temporary files.
+*.swp
+*.swo
+.DS_Store
